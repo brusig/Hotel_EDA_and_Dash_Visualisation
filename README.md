@@ -9,4 +9,6 @@ For this to work, you need to download this dataset: [515K Hotel Reviews Data in
 
 To run the dash app, simply run the python file (make sure all the imported modules are installed) and head to http://127.0.0.1:8050
 
-There is some visual EDA inside the notebook as well!
+There is some visual EDA inside the notebook as well, however my primary focus was on the interactive Dash visualisation!
+
+
